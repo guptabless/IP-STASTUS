@@ -1,7 +1,7 @@
 # IP-STATUS
 
 
-This tool extracts the geo location of an ip address.
+This tool extracts the geo location of an indiviual ip address or you can provide a bunch of ip address using a text file.
 
 ## Requirment:
 
@@ -17,6 +17,6 @@ This tool extracts the geo location of an ip address.
 
 ## usage: 
 
-IpStatus.py  -a <" Valid key of your account "> -i <" Mentioned the valid ip address taht you want to check "> 
+IpStatus.py  -a <" Valid key of your account "> -i <" Mentioned the valid ip address that you want to check or location of text file"> 
 
 
