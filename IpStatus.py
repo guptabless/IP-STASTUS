@@ -102,4 +102,4 @@ if (len(sys.argv) > 1):
             print(bcolors.OKMSG + 'Please enter -a < Valid api key from your account > -i < Mentioned the valid Ipaddress >')
     else:
             banner()
-            print(bcolors.ERR + 'Please select valid options(-a,-i) or -h from IpStatus.py ')
+            print(bcolors.ERR + 'Please select valid options(-a,-i) or -h from IpStatus.py')
